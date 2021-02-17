@@ -1,6 +1,6 @@
 # Chat
 
-![](https://github.com////file.png)
+![](https://github.com/inkvitop/Chat/blob/%231upd/file.png?raw=true)
 
 ```shell
 $ npm install
